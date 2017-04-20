@@ -14,6 +14,6 @@
 
 ```
 #### github
-    To check out my project online visit http://musangisilvia,github.io
+    To check out my project online visit https://musangisilvia.github.io/Projects/
 
 ##### Copyrights
