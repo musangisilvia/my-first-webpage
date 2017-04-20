@@ -1,5 +1,6 @@
 # Project Titile
     **SILVIA'S README**
+
 ## AUTHOR
   Silvia Musangi
 
@@ -14,6 +15,6 @@
 
 ```
 #### github
-    To check out my project online visit https://musangisilvia.github.io/Projects/
+    To check out my project online visit https://musangisilvia.github.io/my-first-webpage
 
 ##### Copyrights
